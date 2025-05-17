@@ -8,11 +8,11 @@
 		<version>3.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.LibraryManagementSytem</groupId>
-	<artifactId>Spring-Boot-Project-For-Library-Management</artifactId>
+	<groupId>com.ecommerce</groupId>
+	<artifactId>ecommerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring-Boot-Project-For-Library-Management</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Ecommerce</name>
+	<description>Spring Boot Ecommerce Application</description>
 	<url/>
 	<licenses>
 		<license/>
